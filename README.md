@@ -1,0 +1,1 @@
+A data analysis project using Spotify track data to explore trends in popularity and audio features. Built with Power BI and BigQuery, this project turns raw data into visuals to discover insights about songs, genres, and listening patterns.
